@@ -12,4 +12,5 @@ Create a Superuser and assign username and password
 Run the python server using python server command in the terminal 
 # Home Page
 ![1](https://github.com/prabhasv77/OCAMS--Online-college-admission-management-system/assets/120770931/267402f9-9fab-409a-9e28-93849ce4bc71)
+# Register Page
 
